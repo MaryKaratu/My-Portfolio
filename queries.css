@@ -1,0 +1,15 @@
+@media (max-width: 75em) {
+  .container {
+    flex-direction: column;
+  }
+
+  .about-me-box {
+    max-width: 40rem;
+    padding: 3.8rem;
+    margin: 1.5rem;
+  }
+
+  .box {
+    grid-template-columns: 1fr;
+  }
+}
