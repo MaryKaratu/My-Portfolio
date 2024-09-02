@@ -19,8 +19,8 @@
     font-size: 2rem;
   }
 
-  .about-me::after {
-    width: 10%;
+  .about-me h1::after {
+    width: 15%;
   }
 
   .box {
